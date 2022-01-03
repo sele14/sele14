@@ -2,7 +2,10 @@
 
 ### Top Languages 👨‍💻
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sele14)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--START_SECTION:top_language-->
+
 ```text
 Jupyter Notebook   589.43 KiB ████████████████░░░░░░░░░   67.37 %
 Python             108.83 KiB ███░░░░░░░░░░░░░░░░░░░░░░   12.44 %
@@ -15,4 +18,5 @@ TypeScript          11.32 KiB ░░░░░░░░░░░░░░░░�
 JavaScript           9.62 KiB ░░░░░░░░░░░░░░░░░░░░░░░░░    1.10 %
 CSS                  6.37 KiB ░░░░░░░░░░░░░░░░░░░░░░░░░    0.73 %
 ```
+
 <!--END_SECTION:top_language-->
